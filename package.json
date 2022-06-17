@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "del": "^6.1.1",
+    "gulp": "^4.0.2",
+    "webdriver-manager": "^12.1.8"
+  },
+  "devDependencies": {
+    "protractor": "^7.0.0"
+  }
+}
